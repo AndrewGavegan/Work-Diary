@@ -4,6 +4,7 @@ The main body of the page contains nine rows for each respective hour in the wor
 This work diary is colour coded, red row signals that hour has passed, grey meaning this is the hour you are in and green meaning it is an hour still to come. 
 The input sections have an overflow feature so you can type far more than just the actual space you can see, as you will be presented with a scroll tool.
 
-The website is live here! 
+The website is live here! https://andrewgavegan.github.io/Work-Diary/index.HTML
+(jQuery was loading sometimes and not others, I made sure link was https, hope this loads for you!)
 
 ![Work-Diary-Screenshot](https://user-images.githubusercontent.com/91113260/159838153-4ab6391a-7f53-47d2-bc9c-3a66af08bc92.PNG)
